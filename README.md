@@ -6,13 +6,13 @@ LootScoop is a powerful, curses-based command-line tool designed to hunt for Ela
 
 ## Features
 
-- **Interactive Interface**: Navigate through search results using an intuitive curses-based UI.
-- **Elasticsearch Focus**: Specialized to detect and interact with Elasticsearch vulnerabilities like `ElasticSearchOpenPlugin`.
+- **Interactive Interface**: Navigate through search results using an intuitive curses-based UI..
 - **Query Customization**: Search by plugin, custom queries, host, or domain with pagination support.
 - **Index Inspection**: List and select Elasticsearch indices for quick data peeks without overwhelming your system.
 - **Data Visualization**: Tree-view structure for results allowing for easy navigation and understanding of complex data hierarchies.
 - **Colorful Terminal Output**: Enhances readability with color-coded elements for different types of information.
 - **Safety First**: Designed with security in mind, ensuring you only deal with what you want to see.
+- **Elastic**: Specialized to detect and interact with Exposed Elastic databases.
 
 ## Installation
 
